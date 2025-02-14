@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fashion is fly</title>
+    <h1>FASHION DAYS</h1>
+  </head>
+  <body>
+    <div>
+      <nav>
+        <ul>
+          <li><a href="#scary">Scary Customs</a></li>
+          <li><a href="#funny">Funny Trends</a></li>
+          <li><a href="#oldies">Old Fahion</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div>
+      <h2>Getting Tickets and Picking the Shows</h2>
+      <img
+        src="https://thevou.com/wp-content/uploads/2023/11/What-is-Fashion.jpg"
+        jsaction=""
+        class="sFlh5c FyHeAf iPVvYb"
+        style="max-width: 1000px; width: 227px; height: 305px; margin: 0px;"
+        alt="What is Fashion? All 4 Fashion Facets Explained in Detail"
+        jsname="kn3ccd"
+        aria-hidden="false"
+      />
+      <p>
+        Be careful about the fashion show you sign up for or you will be either
+        surprised or entertained. But also know you could chose from different
+        ticket prices and options
+      </p>
+      <ul>
+        <li>Scary Customs</li>
+        <li>funny trends</li>
+        <li>Old Fashion</li>
+      </ul>
+    </div>
+    <div id="scary">
+      <h3>Some outfits can be scary and not necesarily just for Halloween</h3>
+      <p>
+        My friend's grandma used to wear outfits like this one in the picture
+        every time she wanted people to stay away from her because she did not
+        like strangers to get too close
+      </p>
+      <img
+        src="https://www.rd.com/wp-content/uploads/2021/08/GettyImages-1035141668-Creepy-Jack-OLantern-Scarecrow-credits-sdominick.jpg?fit=700%2C700"
+        jsaction=""
+        class="sFlh5c FyHeAf iPVvYb"
+        style="max-width: 700px; width: 353px; height: 353px; margin: 0px;"
+        alt="This is grandma wearing a scarecrow outfit to scare people away"
+        jsname="kn3ccd"
+        aria-hidden="false"
+      />
+    </div>
+    <div id="funny">
+      <h3>
+        <em>The Real Clowns</em>
+      </h3>
+      <p>
+        If you want to look like a Clown look no further than these following
+        examples, you will never fail on showing how ridiculous you can be
+      </p>
+      <img
+        src="https://images.axios.com/GnRFuDSwyE6TCfqTLEq_1LfrJb0=/0x0:1920x1080/1920x1080/2024/02/02/1706833670195.jpg?w=3840"
+        jsaction=""
+        class="sFlh5c FyHeAf iPVvYb"
+        style="max-width: 1920px; width: 300px; height: 180px; margin: 0px;"
+        alt='Inside Biden&apos;s obsession with "Morning Joe"'
+        jsname="kn3ccd"
+        aria-hidden="false"
+      />
+      <br />
+      <br />
+      <img
+        src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25541276/STK205_KAMALA_HARRIS_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=17.303921568627,0,65.392156862745,100"
+        jsaction=""
+        class="sFlh5c FyHeAf iPVvYb"
+        style="max-width: 1326px; width: 233px; height: 235px; margin: 0px;"
+        alt="Here's what we know (and don't know) about Kamala Harris and tech policy |  The Verge"
+        jsname="kn3ccd"
+        aria-hidden="false"
+      />
+    </div>
+    <div id="oldies">
+      <h3>The old fashion never gets old</h3>
+      <p>
+        Just be yourself without trying to impress anyone. the best you can do
+        is fell good when you look at the mirror and comfortable enough to be
+        able to wear the same clothes for a whole week with no questions
+      </p>
+      <img
+        src="https://www.realmenrealstyle.com/wp-content/uploads/2023/07/Country-Style-For-Men-Accessories-.jpg"
+        jsaction=""
+        class="sFlh5c FyHeAf iPVvYb"
+        style="max-width: 1024px; width: 353px; height: 241px; margin: 0px;"
+        alt="City vs. Country Style For Men (Which Look Is Best?)"
+        jsname="kn3ccd"
+        aria-hidden="false"
+      />
+    </div>
+    <div>
+      <h4>Contact Information</h4>
+      <strong>E-mail</strong>
+      <p>thefashionguy@crazy.outfits.com</p>
+      <strong>Phone #</strong>
+      <p>123-234-5643</p>
+    </div>
+  </body>
+</html>
